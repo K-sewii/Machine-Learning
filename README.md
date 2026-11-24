@@ -174,7 +174,7 @@ Machine-Learning/
 ├── 3124411148_tuan1.ipynb     # Tuần 1: bài toán, EDA, rò rỉ dữ liệu, mốc E0
 ├── 3124411148_tuan2.ipynb     # Tuần 2: tiền xử lý, E1 (logistic), E2 (kNN), hệ số
 ├── 3124411148_tuan3.ipynb     # Tuần 3: MLP, quá khớp, chọn H, E4, chọn ngưỡng, khóa quyết định
-├── 3124411148_tuan4.ipynb     # Tuần 4: đánh giá test, phân tích lỗi (đang thực hiện)
+├── 3124411148_tuan4.ipynb     # Tuần 4: đánh giá test, phân tích lỗi 
 ├── docs/
 │   ├── ML_Project_DCT124C_6-9.pdf        # Đề bài đồ án
 │   ├── ML_Report-Template_DCT124_6-9.docx # Mẫu báo cáo
@@ -211,14 +211,14 @@ jupyter notebook
 - [x] **Tuần 1:** Bài toán, chia dữ liệu, EDA, rò rỉ qua `duration`, mốc E0
 - [x] **Tuần 2:** Tiền xử lý, `Pipeline`, E1 / E2, ảnh hưởng của trọng số lớp, chuẩn hóa và rò rỉ, đọc hệ số
 - [x] **Tuần 3:** Tính tay MLP, đường cong loss, chọn H qua 5 seed, giả thuyết E4, so sánh công bằng, khóa `QUYET_DINH`
-- [ ] **Tuần 4:** *(đang thực hiện)*
-  - [ ] Xác nhận `QUYET_DINH` khớp với tuần 3
-  - [ ] Đánh giá trên test **một lần** tại τ\* = 0,2 (đối chiếu thêm tại τ = 0,5)
-  - [ ] So sánh với phương án gọi ngẫu nhiên cùng số khách
-  - [ ] So sánh kết quả validation và test
-  - [ ] Phân tích lỗi theo nhóm khách và 6 lỗi cụ thể
+- [x] **Tuần 4:** Đánh giá cuối trên test, phân tích lỗi, hoàn thiện báo cáo
+  - [x] Xác nhận `QUYET_DINH` khớp với tuần 3
+  - [x] Đánh giá trên test **một lần** tại τ\* = 0,2 (đối chiếu thêm tại τ = 0,5)
+  - [x] So sánh với phương án gọi ngẫu nhiên cùng số khách
+  - [x] So sánh kết quả validation và test
+  - [x] Phân tích lỗi theo nhóm khách và 6 lỗi cụ thể
   - [ ] *(Nâng cao)* Khoảng tin cậy bootstrap cho F1-yes trên test
-- [ ] **Báo cáo** `MSSV_ML_baocao.pdf` (≥ 20 trang theo mẫu) và nộp `MSSV_ML.zip`
+- [x] **Báo cáo** `3124411148_ML_baocao.pdf` (docs\3124411148_ML_baocao.pdf) và nộp `MSSV_ML.zip`
 
 ---
 
