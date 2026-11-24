@@ -218,7 +218,7 @@ jupyter notebook
   - [x] So sánh kết quả validation và test
   - [x] Phân tích lỗi theo nhóm khách và 6 lỗi cụ thể
   - [ ] *(Nâng cao)* Khoảng tin cậy bootstrap cho F1-yes trên test
-- [x] **Báo cáo** `3124411148_ML_baocao.pdf` (docs\3124411148_ML_baocao.pdf) và nộp `MSSV_ML.zip`
+- [x] **Báo cáo** `3124411148_ML_baocao.pdf` (docs/3124411148_ML_baocao.pdf)
 
 ---
 
